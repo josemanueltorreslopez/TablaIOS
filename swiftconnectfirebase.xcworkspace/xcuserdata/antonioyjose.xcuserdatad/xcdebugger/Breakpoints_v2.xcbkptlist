@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "87ADAC43-9020-44B0-B081-5779CB043D34"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "004E35F1-38D7-4C68-8188-8C8AD1ACEFBE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftconnectfirebase/Videojuegos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "Videojuegos"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C7E0384-36B8-4E9F-8F77-E7C7543BEB9C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftconnectfirebase/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "0C7E0384-36B8-4E9F-8F77-E7C7543BEB9C - 762331d43d0ba2c6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftconnectfirebase.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; swiftconnectfirebase.ViewController"
+                  moduleName = "swiftconnectfirebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonioyjose/Desktop/xcode/swiftconnectfirebase/swiftconnectfirebase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "0C7E0384-36B8-4E9F-8F77-E7C7543BEB9C - a48fa43520aac51f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftconnectfirebase.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; swiftconnectfirebase.ViewController"
+                  moduleName = "swiftconnectfirebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonioyjose/Desktop/xcode/swiftconnectfirebase/swiftconnectfirebase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "0C7E0384-36B8-4E9F-8F77-E7C7543BEB9C - e3ddad0d2cc4799f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftconnectfirebase.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;swiftconnectfirebase.ViewController&gt;"
+                  moduleName = "swiftconnectfirebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonioyjose/Desktop/xcode/swiftconnectfirebase/swiftconnectfirebase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "0C7E0384-36B8-4E9F-8F77-E7C7543BEB9C - 2e6b957e5e3fcc5e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftconnectfirebase.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;swiftconnectfirebase.ViewController&gt;"
+                  moduleName = "swiftconnectfirebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonioyjose/Desktop/xcode/swiftconnectfirebase/swiftconnectfirebase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "0C7E0384-36B8-4E9F-8F77-E7C7543BEB9C - 80dfb9c9107e32d6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftconnectfirebase.ViewController.__deallocating_deinit"
+                  moduleName = "swiftconnectfirebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonioyjose/Desktop/xcode/swiftconnectfirebase/swiftconnectfirebase/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
